@@ -4,7 +4,7 @@ target/
 
 .mvn/wrapper/maven-wrapper.jar
 
-application-local.properties
+**/application-local.properties
 .env
 
 .DS_Store
