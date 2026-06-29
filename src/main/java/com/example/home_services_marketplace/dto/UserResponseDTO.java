@@ -1,8 +1,9 @@
 package com.example.home_services_marketplace.dto;
 
 public class UserResponseDTO {
-  private String firstName;
-  private String lastName;
-  private String email;
-  private String phone;
+  public Long id;
+  public String firstName;
+  public String lastName;
+  public String email;
+  public String phone;
 }
